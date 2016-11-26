@@ -24,4 +24,4 @@
 - Speaker identification, instrument identification
 
 # Summarization
-- [Github page for summarize Digital Signal Processing in Korean ](http://localhost:10000/dsp/)
+- [Github page for summarize Digital Signal Processing in Korean ](http://kascia.github.io/dsp/)
