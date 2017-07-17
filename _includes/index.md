@@ -5,14 +5,21 @@
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)
 
 # Interesting areas
-- Deep Learning, Reinforcement Learning, Signal Processing
+- Deep Learning and Machine Learning
+    - One Shot Learning
+    - Domain Adaptation
+    - Relation Embedding
+    - Generative Models
+- Signal Processing
+    - Speech, Music, Instruments
 
 # Research Experiences
 + Digital Signal Processing Lab at Yonsei Univ. (2014.6 ~ 2014.12)      
-    - *Robot Control by Server-based Speech Recognition Using GMM-HMM Algorithm* [\[pdf\]]()
+    - *Robot Control by Server-based Speech Recognition Using GMM-HMM Algorithm* 
 
 # Work Experiences
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)   
+    - *Malware Detection and Prediction*
 - Development & Service Planning at Startup team *Soodal*
     - *Calendar-SNS service, WhenD* [\[pdf\]](https://www.dropbox.com/s/rcscmj23e04u4bu/GK%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_SOODAL.pptx?dl=0)
 
