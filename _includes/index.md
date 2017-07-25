@@ -7,8 +7,7 @@
 # Interesting areas
 - Deep Learning and Machine Learning
     - One Shot Learning
-    - Domain Adaptation
-    - Relation Embedding
+    - Manifold Learning
     - Generative Models
 - Signal Processing
     - Speech, Music, Instruments
