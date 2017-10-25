@@ -20,11 +20,22 @@
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)   
     - *Malware Detection and Prediction*
 - Development & Service Planning at Startup team *Soodal*
-    - *Calendar-SNS service, WhenD* [\[pdf\]](https://www.dropbox.com/s/rcscmj23e04u4bu/GK%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_SOODAL.pptx?dl=0)
+    - *Calendar-SNS service, WhenD* [\[pdf\]](https://www.dropbox.com/home/%EC%9E%90%EC%86%8C%EC%84%9C?preview=0831_GK%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_soodal.pdf)
 
 # Awards
 - LSIS award at ELECTRICAL AND ELECTRONIC ENGINEERING CAPSTONE DESIGN (2014.10.30) [\[pdf\]](https://www.dropbox.com/s/df6qgjkyyaia1fv/%EC%A0%84%EA%B8%B0%EC%A0%84%EC%9E%90%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84LS%EC%82%B0%EC%A0%84%EC%83%81.jpg?dl=0)   
 - Excellence award from IoT Hackerton (2014.12.21) [\[pdf\]](https://www.dropbox.com/s/839jtau364ojtz2/IMG.pdf?dl=0)
+
+# Programming Skills
+- Python, Tensorflow
+- JAVA, Android
+- C, C++
+
+# Recent Seminars
+- Research on relationship between Loss Function and Target Probability Distribution @ ESTsoft AI mini seminar
+- Linear Algebra @ ESTsoft A.I.Plus Lab
+- Probability and Random Variables @ ESTsoft A.I.Plus Lab
+- Statistics and Machine Leanring @ ESTsoft A.I.Plus Lab
 
 # Personal Projects
 - Speaker identification, instrument identification
