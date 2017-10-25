@@ -20,7 +20,7 @@
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)   
     - *Malware Detection and Prediction*
 - Development & Service Planning at Startup team *Soodal*
-    - *Calendar-SNS service, WhenD* [\[pdf\]](https://www.dropbox.com/home/%EC%9E%90%EC%86%8C%EC%84%9C?preview=0831_GK%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_soodal.pdf)
+    - *Calendar-SNS service, WhenD* [\[pdf\]](https://www.dropbox.com/s/dcskvo1cz8zvl9q/0831_GK%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_soodal.pdf?dl=0)
 
 # Awards
 - LSIS award at ELECTRICAL AND ELECTRONIC ENGINEERING CAPSTONE DESIGN (2014.10.30) [\[pdf\]](https://www.dropbox.com/s/df6qgjkyyaia1fv/%EC%A0%84%EA%B8%B0%EC%A0%84%EC%9E%90%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84LS%EC%82%B0%EC%A0%84%EC%83%81.jpg?dl=0)   
