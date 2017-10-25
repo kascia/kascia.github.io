@@ -1,5 +1,4 @@
 
-
 # Profile
 - Undergraduate of Electrical & Electronics Engineering at Yonsei Univ. (2011.03 ~)   
 - Research & Development, ESTsoft, Seoul, South Korea (2015.11 ~)
@@ -32,13 +31,21 @@
 - C, C++
 
 # Recent Seminars
-- Research on relationship between Loss Function and Target Probability Distribution @ ESTsoft AI mini seminar
+- Research on Relationship between Loss Function and Target Probability Distribution @ ESTsoft AI mini seminar
 - Linear Algebra @ ESTsoft A.I.Plus Lab
 - Probability and Random Variables @ ESTsoft A.I.Plus Lab
 - Statistics and Machine Leanring @ ESTsoft A.I.Plus Lab
 
 # Personal Projects
 - Speaker identification, instrument identification
+
+# Study Group
+- Leader of AI Study Group in Yonsei Univ (2016.08 ~ 2017.08) 
+    - Materials : CS231n, Deep Leanring Book 
+    - Programming : Python, Tensorflow 
+    - Version Control : Git
+    - IDE : Vim
+    - Environment Setting : Ubuntu, Docker
 
 # Summarization
 - [Github page for summarize Digital Signal Processing in Korean ](https://kascia.github.io/dsp/)
